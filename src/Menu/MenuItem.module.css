@@ -1,0 +1,49 @@
+.item{
+    display: block;
+    margin: 10px;
+}
+
+.title{
+    font-size: 0.875rem;
+    letter-spacing: 0.1em;
+    font-family: 'din2014';
+    font-weight: 900;
+    text-align: left;
+    margin: 0;
+    color: rgb(95, 90, 60);
+}
+
+.price{
+    text-align: left;
+    font-family: 'libre baskerville';
+    font-weight: 400;
+    padding-bottom: 4px;
+    font-size: 12px;
+    margin: 0;
+    color: rgb(95, 90, 68);
+    letter-spacing: 0.6px;
+    line-height: 1.4px;
+}
+
+.description{
+    text-align: left;
+    font-family: 'libre baskerville';
+    margin: 0;
+    margin-bottom: 5px;
+    color: rgb(95, 90, 68);
+    letter-spacing: 0.6px;
+    line-height: 1.4;
+    font-size: 12px;
+}
+
+.additions{
+    font-style: italic;
+    font-weight: 500;
+    text-align: left;
+    font-family: 'libre baskerville';
+    margin: 0;
+    color: rgb(95, 90, 68);
+    letter-spacing: 0.6px;
+    line-height: 1.4;
+    font-size: 12px;
+}

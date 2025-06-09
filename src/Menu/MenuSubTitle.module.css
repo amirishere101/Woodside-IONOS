@@ -1,0 +1,22 @@
+.titleSection{
+    text-align: left;
+    margin-left: 7px;
+}
+
+.title {
+    font-family: 'cubano', sans-serif;
+    color: rgb(148, 54, 22);
+    font-size: 1.25rem;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    letter-spacing: 1.5px;
+}
+
+.subtitle {
+    margin: 0px;
+    font-family: 'din2014';
+    text-align: left;
+    font-size: 0.75rem;
+    color: hsl(0, 0%, 45%);
+}

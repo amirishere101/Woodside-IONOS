@@ -1,0 +1,25 @@
+.sectionTitle{
+    display: grid;
+    font-family: 'cubano', sans-serif;
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+}
+
+.titleHeading {
+    color: rgb(148, 54, 22);
+    font-size: 2.25rem;
+    text-align: center;
+    margin: 5px;
+    letter-spacing: 3.5px;
+    padding-top: 16px;
+}
+
+.titleSubHeading {
+    font-family: 'din2014', sans-serif;
+    font-size: 0.875rem;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    letter-spacing: 1.25px;
+    padding-bottom: 16px;
+}

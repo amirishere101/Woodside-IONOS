@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'cubano';
+  src: url("../assets/fonts/Cubano.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'din2014';
+  src: url("../assets/fonts/DIN-2014_Regular.otf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'libre baskerville';
+  src: url("../assets/fonts/LibreBaskerville-Regular.ttf");
+  font-display: swap;
+}
+
+/* gives the background a softer cream color*/
+body {
+  background-color: #fffff3;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.spin {
+  animation: spin 40s linear infinite;
+}
+
+
